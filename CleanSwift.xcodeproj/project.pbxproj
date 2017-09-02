@@ -10,19 +10,19 @@
 		45715B381F5A767E0072B5A1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B371F5A767E0072B5A1 /* AppDelegate.swift */; };
 		45715B3A1F5A767E0072B5A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45715B391F5A767E0072B5A1 /* Assets.xcassets */; };
 		45715B3D1F5A767E0072B5A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45715B3B1F5A767E0072B5A1 /* LaunchScreen.storyboard */; };
-		45715B491F5A79CC0072B5A1 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B471F5A79CC0072B5A1 /* LoginViewController.swift */; };
-		45715B4A1F5A79CC0072B5A1 /* LoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 45715B481F5A79CC0072B5A1 /* LoginViewController.xib */; };
-		45715B4F1F5A813D0072B5A1 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B4D1F5A813D0072B5A1 /* HomeViewController.swift */; };
-		45715B501F5A813D0072B5A1 /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 45715B4E1F5A813D0072B5A1 /* HomeViewController.xib */; };
-		45715B561F5A81B10072B5A1 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B551F5A81B10072B5A1 /* User.swift */; };
-		45715B581F5A87FD0072B5A1 /* LoginPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B571F5A87FD0072B5A1 /* LoginPresenter.swift */; };
-		45715B5A1F5A88150072B5A1 /* LoginPresenterInterface.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B591F5A88150072B5A1 /* LoginPresenterInterface.swift */; };
-		45715B5C1F5A88290072B5A1 /* LoginInteractorInterface.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B5B1F5A88290072B5A1 /* LoginInteractorInterface.swift */; };
-		45715B5E1F5A883C0072B5A1 /* LoginInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B5D1F5A883C0072B5A1 /* LoginInteractor.swift */; };
-		45715B601F5A88600072B5A1 /* LoginRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B5F1F5A88600072B5A1 /* LoginRouter.swift */; };
-		45715B641F5A892A0072B5A1 /* LoginModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B631F5A892A0072B5A1 /* LoginModule.swift */; };
-		45715B671F5A904F0072B5A1 /* SignInUseCaseProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B661F5A904F0072B5A1 /* SignInUseCaseProtocol.swift */; };
-		45715B6A1F5A90920072B5A1 /* SignInUseCaseImplementator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B691F5A90920072B5A1 /* SignInUseCaseImplementator.swift */; };
+		45715B6D1F5AAC9F0072B5A1 /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 45715B6B1F5AAC9F0072B5A1 /* HomeViewController.xib */; };
+		45715B6E1F5AAC9F0072B5A1 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B6C1F5AAC9F0072B5A1 /* HomeViewController.swift */; };
+		45715B701F5AACAE0072B5A1 /* LoginModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B6F1F5AACAE0072B5A1 /* LoginModule.swift */; };
+		45715B721F5AACB80072B5A1 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B711F5AACB80072B5A1 /* User.swift */; };
+		45715B741F5AACC20072B5A1 /* LoginRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B731F5AACC20072B5A1 /* LoginRouter.swift */; };
+		45715B771F5AACD20072B5A1 /* LoginInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B751F5AACD20072B5A1 /* LoginInteractor.swift */; };
+		45715B781F5AACD20072B5A1 /* LoginInteractorInterface.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B761F5AACD20072B5A1 /* LoginInteractorInterface.swift */; };
+		45715B7A1F5AACE40072B5A1 /* SignInUseCaseProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B791F5AACE40072B5A1 /* SignInUseCaseProtocol.swift */; };
+		45715B7C1F5AACEB0072B5A1 /* SignInUseCaseImplementator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B7B1F5AACEB0072B5A1 /* SignInUseCaseImplementator.swift */; };
+		45715B7F1F5AACFD0072B5A1 /* LoginPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B7D1F5AACFD0072B5A1 /* LoginPresenter.swift */; };
+		45715B801F5AACFD0072B5A1 /* LoginPresenterInterface.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B7E1F5AACFD0072B5A1 /* LoginPresenterInterface.swift */; };
+		45715B831F5AAD080072B5A1 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45715B811F5AAD080072B5A1 /* LoginViewController.swift */; };
+		45715B841F5AAD080072B5A1 /* LoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 45715B821F5AAD080072B5A1 /* LoginViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,19 +31,19 @@
 		45715B391F5A767E0072B5A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		45715B3C1F5A767E0072B5A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		45715B3E1F5A767E0072B5A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		45715B471F5A79CC0072B5A1 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginViewController.swift; path = Login/View/LoginViewController.swift; sourceTree = "<group>"; };
-		45715B481F5A79CC0072B5A1 /* LoginViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = LoginViewController.xib; path = Login/View/LoginViewController.xib; sourceTree = "<group>"; };
-		45715B4D1F5A813D0072B5A1 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeViewController.swift; path = Home/View/HomeViewController.swift; sourceTree = "<group>"; };
-		45715B4E1F5A813D0072B5A1 /* HomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = HomeViewController.xib; path = Home/View/HomeViewController.xib; sourceTree = "<group>"; };
-		45715B551F5A81B10072B5A1 /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = User.swift; path = Login/Entity/User.swift; sourceTree = "<group>"; };
-		45715B571F5A87FD0072B5A1 /* LoginPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginPresenter.swift; path = Login/Presenter/LoginPresenter.swift; sourceTree = "<group>"; };
-		45715B591F5A88150072B5A1 /* LoginPresenterInterface.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginPresenterInterface.swift; path = Login/Presenter/LoginPresenterInterface.swift; sourceTree = "<group>"; };
-		45715B5B1F5A88290072B5A1 /* LoginInteractorInterface.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginInteractorInterface.swift; path = Login/Interactor/LoginInteractorInterface.swift; sourceTree = "<group>"; };
-		45715B5D1F5A883C0072B5A1 /* LoginInteractor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginInteractor.swift; path = Login/Interactor/LoginInteractor.swift; sourceTree = "<group>"; };
-		45715B5F1F5A88600072B5A1 /* LoginRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginRouter.swift; path = Login/Router/LoginRouter.swift; sourceTree = "<group>"; };
-		45715B631F5A892A0072B5A1 /* LoginModule.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginModule.swift; path = Login/Module/LoginModule.swift; sourceTree = "<group>"; };
-		45715B661F5A904F0072B5A1 /* SignInUseCaseProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SignInUseCaseProtocol.swift; path = Login/Interactor/UseCases/SignInUseCaseProtocol.swift; sourceTree = "<group>"; };
-		45715B691F5A90920072B5A1 /* SignInUseCaseImplementator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SignInUseCaseImplementator.swift; path = Login/Interactor/UseCases/Adapters/SignInUseCaseImplementator.swift; sourceTree = "<group>"; };
+		45715B6B1F5AAC9F0072B5A1 /* HomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = HomeViewController.xib; path = Modules/Home/View/HomeViewController.xib; sourceTree = "<group>"; };
+		45715B6C1F5AAC9F0072B5A1 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeViewController.swift; path = Modules/Home/View/HomeViewController.swift; sourceTree = "<group>"; };
+		45715B6F1F5AACAE0072B5A1 /* LoginModule.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginModule.swift; path = Modules/Login/Module/LoginModule.swift; sourceTree = "<group>"; };
+		45715B711F5AACB80072B5A1 /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = User.swift; path = Modules/Login/Entity/User.swift; sourceTree = "<group>"; };
+		45715B731F5AACC20072B5A1 /* LoginRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginRouter.swift; path = Modules/Login/Router/LoginRouter.swift; sourceTree = "<group>"; };
+		45715B751F5AACD20072B5A1 /* LoginInteractor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginInteractor.swift; path = Modules/Login/Interactor/LoginInteractor.swift; sourceTree = "<group>"; };
+		45715B761F5AACD20072B5A1 /* LoginInteractorInterface.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginInteractorInterface.swift; path = Modules/Login/Interactor/LoginInteractorInterface.swift; sourceTree = "<group>"; };
+		45715B791F5AACE40072B5A1 /* SignInUseCaseProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SignInUseCaseProtocol.swift; path = Modules/Login/Interactor/UseCases/SignInUseCaseProtocol.swift; sourceTree = "<group>"; };
+		45715B7B1F5AACEB0072B5A1 /* SignInUseCaseImplementator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SignInUseCaseImplementator.swift; path = Modules/Login/Interactor/UseCases/Adapters/SignInUseCaseImplementator.swift; sourceTree = "<group>"; };
+		45715B7D1F5AACFD0072B5A1 /* LoginPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginPresenter.swift; path = Modules/Login/Presenter/LoginPresenter.swift; sourceTree = "<group>"; };
+		45715B7E1F5AACFD0072B5A1 /* LoginPresenterInterface.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginPresenterInterface.swift; path = Modules/Login/Presenter/LoginPresenterInterface.swift; sourceTree = "<group>"; };
+		45715B811F5AAD080072B5A1 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginViewController.swift; path = Modules/Login/View/LoginViewController.swift; sourceTree = "<group>"; };
+		45715B821F5AAD080072B5A1 /* LoginViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = LoginViewController.xib; path = Modules/Login/View/LoginViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,8 +110,8 @@
 		45715B461F5A76970072B5A1 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				45715B471F5A79CC0072B5A1 /* LoginViewController.swift */,
-				45715B481F5A79CC0072B5A1 /* LoginViewController.xib */,
+				45715B811F5AAD080072B5A1 /* LoginViewController.swift */,
+				45715B821F5AAD080072B5A1 /* LoginViewController.xib */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -127,8 +127,8 @@
 		45715B4C1F5A81230072B5A1 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				45715B4D1F5A813D0072B5A1 /* HomeViewController.swift */,
-				45715B4E1F5A813D0072B5A1 /* HomeViewController.xib */,
+				45715B6B1F5AAC9F0072B5A1 /* HomeViewController.xib */,
+				45715B6C1F5AAC9F0072B5A1 /* HomeViewController.swift */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -136,8 +136,8 @@
 		45715B511F5A81470072B5A1 /* Presenter */ = {
 			isa = PBXGroup;
 			children = (
-				45715B571F5A87FD0072B5A1 /* LoginPresenter.swift */,
-				45715B591F5A88150072B5A1 /* LoginPresenterInterface.swift */,
+				45715B7D1F5AACFD0072B5A1 /* LoginPresenter.swift */,
+				45715B7E1F5AACFD0072B5A1 /* LoginPresenterInterface.swift */,
 			);
 			name = Presenter;
 			sourceTree = "<group>";
@@ -145,9 +145,9 @@
 		45715B521F5A814D0072B5A1 /* Interactor */ = {
 			isa = PBXGroup;
 			children = (
+				45715B751F5AACD20072B5A1 /* LoginInteractor.swift */,
+				45715B761F5AACD20072B5A1 /* LoginInteractorInterface.swift */,
 				45715B651F5A90050072B5A1 /* UseCases */,
-				45715B5B1F5A88290072B5A1 /* LoginInteractorInterface.swift */,
-				45715B5D1F5A883C0072B5A1 /* LoginInteractor.swift */,
 			);
 			name = Interactor;
 			sourceTree = "<group>";
@@ -155,7 +155,7 @@
 		45715B531F5A81520072B5A1 /* Router */ = {
 			isa = PBXGroup;
 			children = (
-				45715B5F1F5A88600072B5A1 /* LoginRouter.swift */,
+				45715B731F5AACC20072B5A1 /* LoginRouter.swift */,
 			);
 			name = Router;
 			sourceTree = "<group>";
@@ -163,7 +163,7 @@
 		45715B541F5A81560072B5A1 /* Entity */ = {
 			isa = PBXGroup;
 			children = (
-				45715B551F5A81B10072B5A1 /* User.swift */,
+				45715B711F5AACB80072B5A1 /* User.swift */,
 			);
 			name = Entity;
 			sourceTree = "<group>";
@@ -171,7 +171,7 @@
 		45715B621F5A89030072B5A1 /* Module */ = {
 			isa = PBXGroup;
 			children = (
-				45715B631F5A892A0072B5A1 /* LoginModule.swift */,
+				45715B6F1F5AACAE0072B5A1 /* LoginModule.swift */,
 			);
 			name = Module;
 			sourceTree = "<group>";
@@ -179,8 +179,8 @@
 		45715B651F5A90050072B5A1 /* UseCases */ = {
 			isa = PBXGroup;
 			children = (
+				45715B791F5AACE40072B5A1 /* SignInUseCaseProtocol.swift */,
 				45715B681F5A906F0072B5A1 /* Adapters */,
-				45715B661F5A904F0072B5A1 /* SignInUseCaseProtocol.swift */,
 			);
 			name = UseCases;
 			sourceTree = "<group>";
@@ -188,7 +188,7 @@
 		45715B681F5A906F0072B5A1 /* Adapters */ = {
 			isa = PBXGroup;
 			children = (
-				45715B691F5A90920072B5A1 /* SignInUseCaseImplementator.swift */,
+				45715B7B1F5AACEB0072B5A1 /* SignInUseCaseImplementator.swift */,
 			);
 			name = Adapters;
 			sourceTree = "<group>";
@@ -253,10 +253,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45715B841F5AAD080072B5A1 /* LoginViewController.xib in Resources */,
 				45715B3A1F5A767E0072B5A1 /* Assets.xcassets in Resources */,
 				45715B3D1F5A767E0072B5A1 /* LaunchScreen.storyboard in Resources */,
-				45715B4A1F5A79CC0072B5A1 /* LoginViewController.xib in Resources */,
-				45715B501F5A813D0072B5A1 /* HomeViewController.xib in Resources */,
+				45715B6D1F5AAC9F0072B5A1 /* HomeViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,18 +267,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				45715B561F5A81B10072B5A1 /* User.swift in Sources */,
-				45715B671F5A904F0072B5A1 /* SignInUseCaseProtocol.swift in Sources */,
-				45715B491F5A79CC0072B5A1 /* LoginViewController.swift in Sources */,
-				45715B5A1F5A88150072B5A1 /* LoginPresenterInterface.swift in Sources */,
-				45715B641F5A892A0072B5A1 /* LoginModule.swift in Sources */,
+				45715B831F5AAD080072B5A1 /* LoginViewController.swift in Sources */,
 				45715B381F5A767E0072B5A1 /* AppDelegate.swift in Sources */,
-				45715B5E1F5A883C0072B5A1 /* LoginInteractor.swift in Sources */,
-				45715B601F5A88600072B5A1 /* LoginRouter.swift in Sources */,
-				45715B4F1F5A813D0072B5A1 /* HomeViewController.swift in Sources */,
-				45715B581F5A87FD0072B5A1 /* LoginPresenter.swift in Sources */,
-				45715B6A1F5A90920072B5A1 /* SignInUseCaseImplementator.swift in Sources */,
-				45715B5C1F5A88290072B5A1 /* LoginInteractorInterface.swift in Sources */,
+				45715B7C1F5AACEB0072B5A1 /* SignInUseCaseImplementator.swift in Sources */,
+				45715B7A1F5AACE40072B5A1 /* SignInUseCaseProtocol.swift in Sources */,
+				45715B721F5AACB80072B5A1 /* User.swift in Sources */,
+				45715B7F1F5AACFD0072B5A1 /* LoginPresenter.swift in Sources */,
+				45715B771F5AACD20072B5A1 /* LoginInteractor.swift in Sources */,
+				45715B701F5AACAE0072B5A1 /* LoginModule.swift in Sources */,
+				45715B741F5AACC20072B5A1 /* LoginRouter.swift in Sources */,
+				45715B6E1F5AAC9F0072B5A1 /* HomeViewController.swift in Sources */,
+				45715B781F5AACD20072B5A1 /* LoginInteractorInterface.swift in Sources */,
+				45715B801F5AACFD0072B5A1 /* LoginPresenterInterface.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -436,6 +436,7 @@
 				45715B431F5A767E0072B5A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
